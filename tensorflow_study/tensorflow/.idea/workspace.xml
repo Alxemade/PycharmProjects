@@ -29,7 +29,7 @@
       <file leaf-file-name="BN1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BN1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
+            <state relative-caret-position="2214">
               <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
               <folding>
                 <element signature="e#205#223#0" expanded="true" />
@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-99" />
     <option name="y" value="256" />
     <option name="width" value="1071" />
@@ -236,7 +236,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19784367" />
@@ -529,7 +529,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BN1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
+        <state relative-caret-position="2214">
           <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
           <folding>
             <element signature="e#205#223#0" expanded="true" />
